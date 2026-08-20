@@ -1,4 +1,4 @@
-#bannerAlignment{
+#banner-alignment{
     height: 10vh;
     display: flex;
     align-items:center; 
@@ -14,40 +14,33 @@
     margin-bottom: 1vh;
 }
 
-.navButtons {
+.nav-buttons {
     border: none;
     display: block;
     margin-left: 10vh;
-    
     font-size: 130%;
     background-color: transparent;
-    padding:2vh 2vh;
-
-
+    padding:2vh;
 }
-.navButtons:hover {
-    border: none;
 
+.nav-buttons:hover {
+    border: none;
     display: block;
     margin-left: 10vh;
     text-decoration: underline;
     color: red;
     font-size: 130%;
     background-color: transparent;
-    padding:2vh 2vh;
-
+    padding:2vh;
 }
 
 .selected {
     border: none;
-
     display: block;
     margin-left: 10vh;
-
     text-decoration: underline;
     color: red;
     font-size: 130%;
     background-color: transparent;
-    padding:2vh 2vh;
-
+    padding:2vh;
 }

@@ -1,0 +1,46 @@
+#banner-alignment{
+    height: 10vh;
+    display: flex;
+    align-items:center; 
+    background-color: lightblue; 
+    position: fixed; 
+    padding-left: 1vh; 
+    padding-right: 2.5vh;
+    padding-top:1vh;
+}
+
+.nav{
+    margin-right: 3vh;
+    margin-bottom: 1vh;
+}
+
+.nav-buttons {
+    border: none;
+    display: block;
+    margin-left: 10vh;
+    font-size: 130%;
+    background-color: transparent;
+    padding:2vh;
+}
+
+.nav-buttons:hover {
+    border: none;
+    display: block;
+    margin-left: 10vh;
+    text-decoration: underline;
+    color: red;
+    font-size: 130%;
+    background-color: transparent;
+    padding:2vh;
+}
+
+.selected {
+    border: none;
+    display: block;
+    margin-left: 10vh;
+    text-decoration: underline;
+    color: red;
+    font-size: 130%;
+    background-color: transparent;
+    padding:2vh;
+}

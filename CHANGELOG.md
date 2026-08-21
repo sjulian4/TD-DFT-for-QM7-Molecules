@@ -1,3 +1,10 @@
+# 8/21/2026
+
+## Added
+
+- Setup the Help page for FAQs with a search mechanism
+
+
 # 8/20/2026
 
 ## Added

@@ -17,7 +17,6 @@ export default class Banner extends React.Component {
                 <button type="button" className={this.props.page === "help_page" ? "selected" : "nav-buttons"} onClick={() => this.props.toHelpPage()}>Help</button>
                 <button type="button" className={this.props.page === "contact_us_page" ? "selected" : "nav-buttons"} onClick={() => this.props.toContactUsPage()}>Contact Us</button>
                 <button type="button" className={this.props.page === "settings_page" ? "selected" : "nav-buttons"} onClick={() => this.props.toSettingsPage()}>Settings</button>
-                        
             </div>
         );
     }

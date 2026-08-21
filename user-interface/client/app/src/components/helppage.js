@@ -41,8 +41,8 @@ export default class HelpPage extends React.Component {
                     if (this.state.display_faq === "" || faq.question.toLowerCase().includes(this.state.display_faq.toLowerCase()) || faq.answer.toLowerCase().includes(this.state.display_faq.toLowerCase())) {
                         return (
                             <div key={i}>
-                                <h2 className="questions">{faq.question}</h2>
-                                <p className="answers">{faq.answer}</p>
+                                <h2 className="questions">Q: {faq.question}</h2>
+                                <p className="answers">A: {faq.answer}</p>
                                 <hr />
                             </div>
                         );

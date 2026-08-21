@@ -3,6 +3,7 @@
 ## Added
 
 - Setup the Help page for FAQs with a search mechanism
+- Setup the Contact Us page
 
 
 # 8/20/2026

@@ -1,0 +1,7 @@
+#overall_website {
+    display: flex
+}
+
+#page_view {
+    flex: 1
+}

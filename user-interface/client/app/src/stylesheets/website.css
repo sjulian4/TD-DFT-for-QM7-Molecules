@@ -1,7 +1,7 @@
-#overall_website {
+#overall-website {
     display: flex
 }
 
-#page_view {
+#page-view {
     flex: 1
 }

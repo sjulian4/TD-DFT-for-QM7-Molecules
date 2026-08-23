@@ -1,3 +1,8 @@
+# 8/23/2026
+
+- Setup the structure for the About page
+
+
 # 8/21/2026
 
 ## Added

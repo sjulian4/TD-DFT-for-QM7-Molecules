@@ -9,7 +9,7 @@
     font-size: 8vh;
     font-weight: bold;
     margin-bottom: 3vh;
-    color: red;
+    color: darkred;
 }
 
 #faq-description {
@@ -24,7 +24,7 @@ hr {
 .questions {
     font-size: 3vh;
     margin-bottom: 2vh;
-    color: red;
+    color: darkred;
 
 }
 

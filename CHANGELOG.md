@@ -1,3 +1,18 @@
+# 8/23/2026
+
+## Added
+
+- Setup the structure for the About page
+
+
+# 8/21/2026
+
+## Added
+
+- Setup the Help page for FAQs with a search mechanism
+- Setup the Contact Us page
+
+
 # 8/20/2026
 
 ## Added
